@@ -16,4 +16,6 @@
   1. Algorithm은 무엇인가?
   2. Data_Structure란 무엇인가?
 
+### [1. 자료구조 : 스택(stack)](https://cafecoder.tistory.com/entry/1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C)
 
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FNmkmT%2FbtqCcjJY4OX%2FJkq7pdqgEyFkXKpMkAR6p1%2Fimg.gif)
