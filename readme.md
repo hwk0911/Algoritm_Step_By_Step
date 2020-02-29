@@ -20,6 +20,23 @@
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FNmkmT%2FbtqCcjJY4OX%2FJkq7pdqgEyFkXKpMkAR6p1%2Fimg.gif)
 
+  key)
+  1. 스택의 정의에 대해 알아본다.  
+  2. 스택의 구조에 대해 알아본다.  
+  3. 스택의 작동에 대해 알아본다.  
+  
+#### [추천 문제](https://www.acmicpc.net/problem/4949)
+
 ### [2. 자료구조 : 큐(Queue)](https://cafecoder.tistory.com/entry/2-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-Queue)
 
 ![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FLiwEk%2FbtqCjRmERMY%2FxYjPOngQf4XJ6Kz3B6HR51%2Fimg.gif)
+
+  key)
+  1. 큐의 정의에 대해 알아본다.  
+  2. 큐의 구조에 대해 알아본다.  
+  3. 큐의 작동에 대해 알아본다.  
+    
+  #### 2.1 큐(Queue)
+  #### 2.2 큐(Queue)의 구조
+  #### 2.3 큐(Queue)의 작동
+  #### [추천 문제](https://www.acmicpc.net/problem/18258)
