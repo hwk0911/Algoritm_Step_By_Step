@@ -40,3 +40,17 @@
   #### 2.2 큐(Queue)의 구조
   #### 2.3 큐(Queue)의 작동
   #### [추천 문제](https://www.acmicpc.net/problem/18258)
+  
+### [2. 자료구조 : 덱(DEQue)](https://cafecoder.tistory.com/entry/3-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-deque-%EB%8D%B1-%EB%8D%B0%ED%81%AC-%EB%94%94%ED%81%90)
+
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FcbPZhp%2FbtqCn134jM6%2FuQWAzNwy1nZvRjZLl8aryk%2Fimg.gif)
+
+  key)
+  1. 덱의 정의에 대해 알아본다.
+  2. 덱의 구조에 대해 알아본다.
+  3. 덱의 작동에 대해 알아본다.
+
+  #### 3.1 덱(DEQue)
+  #### 3.2 덱(DEQue)의 구조
+  #### 3.3 덱(DEQue)의 작동
+  #### [추천 문제](https://www.acmicpc.net/problem/10866)
